@@ -23,4 +23,5 @@ Right click and split "Lower to Uppercase" and you will get three Categories col
 
 You will get some "null" values in the categories 2 & Categories 3 column so replace null values as blank
 
+https://raw.githubusercontent.com/rahilytmedia/Project_2/refs/heads/main/ssss.png
 
