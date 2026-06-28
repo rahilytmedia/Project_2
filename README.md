@@ -1,8 +1,5 @@
 Import Amazon_fashion_data file and open as transform in the power query editor
 
-Here in this file you will notice some column has null values, some are blanks, 
-
-Large (image column) it has many image links in the same column, 
 
 so lets correct image url first, if you click on the column data you will notice at the bottom status bar there is | character between two image urls
 
